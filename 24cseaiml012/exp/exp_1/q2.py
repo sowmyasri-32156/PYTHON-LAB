@@ -1,6 +1,0 @@
-name=input("enter your name:")
-age=int(input("enter your age:"))
-address=input("enter your address:")
-print(name,"is name")
-print(age,"is your age")
-print(address, "is your address")

@@ -1,5 +1,0 @@
-x=int(input("enter a number:"))
-print(x)
-print("binary equivalent is :",bin(x))
-print("the octal equivalent is :",oct(x))
-print("the hexadecimal equivalent is :",hex(x))
